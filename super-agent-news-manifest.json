@@ -1,0 +1,59 @@
+{
+  "citations": [
+    "[hackernoon.com](https://news.google.com/rss/articles/CBMinAFBVV95cUxQUFUyMXFTODFKeVd2MU1uOWExbTl2d1RRaG9Kc0IzU2wxTEQyT2pZTjU1TjdNdE5pckJib2J5VC1oYlpCWnF2SnZYN3RINDFnZ2lIN0tRSGlZOEhVV2tYMVRlMnliTl9CTDlTYzNSckVBWGNfLVNleENtRnhsT0ZrbDdfU0xyeERmbXc5WWR1dk9HQi1QZG4zcVNIczc?oc=5)",
+    "[cloudflare.com](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvSVVxcGlNanU2QlZMaWNNc2pVU0FNczJLYzhWWktPdkFOWUJJNW1DYmNramtxWkx5emRET1owUThjQ1E1RGl2U2tuTFRoOGhpOGlZUVhkT1RnUWxncWEtcEhDVTJ2UQ?oc=5)",
+    "[ibm.com](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5sU0FXbGRhT1FHNkpyb2txTG5wcWMyOVEyZmQwRjBNR0ZHelc1Y1lsNWFpZXVmZlptNExWazdHYTQwbWs1VjBSODFfb2VuRjFlT3VkMjFHUy1qQnBLRWF6NkVB?oc=5)"
+  ],
+  "design_plan": "RNG(seed=42)->layout=cinematic-centered; AIDA pass complete; hero math: max-width 1120px ensures 2\u20133 lines; bento density verified with grid-auto-flow:dense; label sweep ensures exact phrase present twice; button contrast checked (#0a0a0a on #fff); accessibility basics added; animations guarded.",
+  "generated_at": "2026-07-04T23:49:48.822582+00:00",
+  "headline": "Computer-use cache for AI agents that repeat real work",
+  "site_brief": {
+    "audience": "builders and operators who need repeated computer-use automations to get cheaper and more reliable",
+    "canonical_url": "https://app.getsupers.com/use-cases/computer-use-cache/",
+    "cluster_links": [
+      {
+        "slug": "order-food-with-ai",
+        "title": "Order food with AI",
+        "url": "https://app.getsupers.com/use-cases/order-food-with-ai/"
+      },
+      {
+        "slug": "book-rides-with-ai",
+        "title": "Book rides with AI",
+        "url": "https://app.getsupers.com/use-cases/book-rides-with-ai/"
+      },
+      {
+        "slug": "text-message-ai-assistant",
+        "title": "Text message AI assistant",
+        "url": "https://app.getsupers.com/use-cases/text-message-ai-assistant/"
+      },
+      {
+        "slug": "meta-display-ai-assistant",
+        "title": "Meta Display AI assistant",
+        "url": "https://app.getsupers.com/use-cases/meta-display-ai-assistant/"
+      },
+      {
+        "slug": "ai-agent-build-websites",
+        "title": "AI agent to build websites",
+        "url": "https://app.getsupers.com/use-cases/ai-agent-build-websites/"
+      },
+      {
+        "slug": "computer-use-cache",
+        "title": "Computer-use cache",
+        "url": "https://app.getsupers.com/use-cases/computer-use-cache/"
+      }
+    ],
+    "goal": "Create an indexable SEO use-case page in the /use-cases/ cluster. Target the practical query 'Computer-use cache', show the exact job-to-be-done, and explain how Super can perform the workflow with real computer use and a reusable computer-use cache. Include sibling use-case links so the cluster feels intentional, crawlable, and useful.",
+    "kind": "use_case",
+    "queries": [
+      "computer use cache AI agent",
+      "computer-use AI agent repeated workflows",
+      "browser automation agent cache",
+      "AI agent action trace reuse"
+    ],
+    "route_prefix": "use-cases",
+    "slug": "computer-use-cache",
+    "title": "Computer-use cache",
+    "use_case_intent": "explain Super's computer-use cache as the reusable memory layer for repeated browser and desktop workflows"
+  },
+  "summary": "An indexable, production-ready use\u2011case page explaining how Super\u2019s computer\u2011use cache makes repeated browser and desktop automations cheaper, faster, and more reliable for builders and operators."
+}
